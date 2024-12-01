@@ -23,7 +23,6 @@ int count_occurances(std::vector<int> right, int n)
 }
 
 // this is disgustingly long and I don't like it either
-// test line
 void Solution::solve_puzzle()
 {
 	linesFromFile = inputReader.read_lines_from_file();
