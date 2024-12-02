@@ -5,10 +5,10 @@
 #include "File.h"
 #include "Solution.h"
 
-//int main()
-//{
-//    std::string filePath{ "../input.txt" };
-//    Solution solve{ &filePath };
-//    solve.solve_puzzle();
-//    return 0;
-//}
+int day01_solution()
+{
+    std::string filePath{ "../input.txt" };
+    Solution solve{ &filePath };
+    solve.solve_puzzle();
+    return 0;
+}
