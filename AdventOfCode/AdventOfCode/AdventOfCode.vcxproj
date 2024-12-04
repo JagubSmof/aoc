@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AdventOfCode.cpp" />
     <ClCompile Include="Day02.cpp" />
+    <ClCompile Include="Day03.cpp" />
     <ClCompile Include="File.cpp" />
     <ClCompile Include="Solution.cpp" />
   </ItemGroup>

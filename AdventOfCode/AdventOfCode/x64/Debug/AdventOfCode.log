@@ -1,5 +1,4 @@
-﻿  Day02.cpp
-C:\Users\theja\Documents\aoc\aoc\AdventOfCode\AdventOfCode\File.h(13,70): warning C4227: anachronism used: qualifiers on reference are ignored
-C:\Users\theja\Documents\aoc\aoc\AdventOfCode\AdventOfCode\Day02.cpp(99,2): warning C4227: anachronism used: qualifiers on reference are ignored
-C:\Users\theja\Documents\aoc\aoc\AdventOfCode\AdventOfCode\Day02.cpp(43): warning C4715: 'determine_is_increasing': not all control paths return a value
+﻿  Day03.cpp
+C:\Users\theja\Documents\aoc\aoc\AdventOfCode\AdventOfCode\File.h(14,70): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\theja\Documents\aoc\aoc\AdventOfCode\AdventOfCode\Day03.cpp(76,2): warning C4227: anachronism used: qualifiers on reference are ignored
   AdventOfCode.vcxproj -> C:\Users\theja\Documents\aoc\aoc\AdventOfCode\x64\Debug\AdventOfCode.exe

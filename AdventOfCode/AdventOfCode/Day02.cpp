@@ -83,7 +83,7 @@ int dampener(std::vector<int> numbers, bool& is_increasing)
 	return 0;
 }
 
-int main()
+int day02_solution()
 {
 	std::string filePath{ "../input.txt " };
 	File inputFile{};

@@ -21,6 +21,19 @@ void File::display_all_lines(std::vector<std::string>& const linesFromFile)
 	}
 }
 
+std::vector<char> File::read_file_char_by_char()
+{
+	std::vector<char> all_chars{};
+	char current;
+	while (inputFile)
+	{
+		inputFile >> current;
+		all_chars.push_back(current);
+	}
+
+	return all_chars;
+}
+
 std::vector<std::string> File::read_lines_from_file()
 {
 	std::vector<std::string> file_lines{};
